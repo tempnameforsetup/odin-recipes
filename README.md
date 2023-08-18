@@ -5,4 +5,4 @@ This includes:
 
 - Using the best practices.
 
-- Utilizing everything I've learned this far.
+- Utilizing everything I've learned thus far.
