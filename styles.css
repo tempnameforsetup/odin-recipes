@@ -1,8 +1,5 @@
-.font {
+#const {
     font-family: 'Times New Roman', sans-serif;
-}
-
-#background {
     background-color: #4e4e4e;
 }
 
@@ -12,19 +9,13 @@ h1, h2 {
 }
 
 .link {
-    color:#b4fcff;
-}
-
-.page-text{
-    color:white;
-}
-
-.link {
     font-size: 22px;
     font-family: Impact, 'Times New Roman', sans-serif;
     font-style:italic;
+    color:#b4fcff;
 }
 
 .page-text {
     font-size: 20px;
+    color:white;
 }
