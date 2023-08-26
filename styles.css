@@ -1,0 +1,25 @@
+.font {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+#background {
+    background-color: #a5d0ef;
+}
+
+#header {
+    color: #f5caf1;
+    font-weight: 700;
+}
+
+.page-text, .link {
+    color:white;
+}
+
+.link {
+    font-size: 20px;
+    font-family: Impact, 'Times New Roman', sans-serif;
+}
+
+.page-text {
+    font-size: 16px;
+}
