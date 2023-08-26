@@ -3,23 +3,28 @@
 }
 
 #background {
-    background-color: #a5d0ef;
+    background-color: #4e4e4e;
 }
 
-#header {
-    color: #f5caf1;
+h1, h2 {
+    color: #ffdefd;
     font-weight: 700;
 }
 
-.page-text, .link {
+.link {
+    color:#b4fcff;
+}
+
+.page-text{
     color:white;
 }
 
 .link {
-    font-size: 20px;
+    font-size: 22px;
     font-family: Impact, 'Times New Roman', sans-serif;
+    font-style:italic;
 }
 
 .page-text {
-    font-size: 16px;
+    font-size: 20px;
 }
